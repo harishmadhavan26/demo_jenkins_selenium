@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="demo_jenkins_selenium.TestGoogle"/>
+      <class name="demo_jenkins_selenium.hi"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
