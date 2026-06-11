@@ -8,7 +8,7 @@ public class hi {
 	@Test(groups = "smoke")
 	public void sample1() 
 	{
-		System.out.println("hi");
+		System.out.println("hi hello");
 	}
 
 }
